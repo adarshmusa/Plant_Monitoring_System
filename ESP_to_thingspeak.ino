@@ -1,5 +1,5 @@
 // Thingspeak
-String myAPIkey = "KRZTAUOSSZJQRTO1";  // Status Channel id: 2065061
+String myAPIkey = "****************";  // Status Channel id: 2065061, use own API key
 #include <SoftwareSerial.h>
 #include <DHT.h>
 SoftwareSerial ESP8266(10, 11);  // Rx, Tx
