@@ -2,6 +2,11 @@
 
 This project utilizes an Arduino Uno along with various sensors to monitor the health and conditions of plants. The system collects real-time data and displays it on a dashboard using the ThingSpeak IoT analytics platform.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8a159871-9fec-4c1a-97d7-e6f1017379e9" width="36%" />
+  <img src="https://github.com/user-attachments/assets/28da6b2e-6fff-48ef-be67-a21f66ad7337" width="45%" />
+</p>
+
 ## Table of Contents
 
 - [Introduction](#introduction)
